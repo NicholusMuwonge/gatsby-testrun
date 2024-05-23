@@ -15,7 +15,7 @@ module.exports = {
       summary: `A sample test interview project.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://hr-lab.netlify.app/`,
+    siteUrl: `https://hr-lab-test.netlify.app/`,
     social: {
       twitter: `hr-lab`,
     },
