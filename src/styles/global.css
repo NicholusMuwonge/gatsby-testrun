@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.prose h2 {
+    @apply text-2xl font-bold my-4 text-[#0083bf];
+}
+
+.prose p {
+  @apply py-4 leading-relaxed;
+}
+
+.prose img {
+  @apply my-2 w-full rounded-2xl max-w-full;
+}
+
+.prose .gatsby-resp-image-wrapper {
+    max-width: none !important;
+  }
+  
